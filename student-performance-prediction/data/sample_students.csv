@@ -1,0 +1,21 @@
+student_id,name,attendance_pct,assignment_avg,internal_assessment_1,internal_assessment_2,midterm_score,study_hours_weekly,extracurricular_hours,previous_gpa,parental_education,final_score
+S0001,Ananya Kumar,88.0,85.9,93.2,82.5,51.5,14.9,5.1,3.3,Master,84.8
+S0002,Yash Khanna,80.3,100.0,84.6,61.2,62.1,16.8,12.3,3.89,PhD,70.1
+S0003,Nikhil Chauhan,89.8,51.0,70.1,56.9,49.2,10.3,0.9,4.0,Bachelor,59.2
+S0004,Divya Menon,100.0,80.4,56.4,69.9,58.8,8.9,10.5,2.76,Master,73.6
+S0005,Divya Verma,79.2,62.2,80.6,67.3,27.1,6.6,1.7,3.29,Master,57.8
+S0006,Suresh Rao,79.2,64.7,75.1,62.7,69.3,7.9,1.3,3.34,Master,64.4
+S0007,Ananya Bhat,100.0,63.1,84.1,81.1,65.0,26.7,0.2,3.12,Bachelor,77.2
+S0008,Aisha Mehta,91.2,59.0,79.4,85.3,48.7,18.2,0.2,2.94,High School,65.5
+S0009,Arjun Verma,76.4,72.7,86.9,71.4,78.2,5.2,3.5,3.26,Bachelor,68.3
+S0010,Ananya Mehta,88.5,59.5,58.4,93.6,83.8,5.4,1.8,1.5,Bachelor,75.2
+S0011,Neha Pandey,76.4,76.1,70.1,51.7,32.8,14.4,0.8,3.41,Bachelor,59.8
+S0012,Nidhi Das,76.4,71.2,71.6,66.9,49.7,14.7,2.9,3.08,Master,58.9
+S0013,Simran Kulkarni,84.9,68.4,100.0,58.5,49.6,14.7,0.9,2.87,Bachelor,68.1
+S0014,Yash Banerjee,59.0,72.4,55.6,40.1,46.2,10.7,2.6,4.0,Bachelor,57.0
+S0015,Harsh Chauhan,61.3,63.3,99.2,68.7,81.6,11.4,1.3,2.6,High School,68.7
+S0016,Palak Kumar,75.3,83.3,71.6,68.1,61.1,13.6,5.2,2.76,Master,68.1
+S0017,Amit Menon,69.8,79.5,56.3,94.2,59.7,12.4,5.2,4.0,Bachelor,71.0
+S0018,Unknown Student,85.8,57.3,59.3,80.1,24.9,2.0,1.9,2.5,High School,51.6
+S0019,Anjali Desai,71.1,73.5,62.2,53.6,77.7,10.9,1.3,2.67,High School,68.3
+S0020,Vikram Saxena,65.1,83.3,75.6,99.7,40.2,7.7,1.4,2.91,Master,71.2

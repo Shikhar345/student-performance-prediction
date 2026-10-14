@@ -1,0 +1,6 @@
+feature,correlation,insight
+academic_progress,0.6489153507321098,**Academic Progress** is strong positively correlated with final score (r = 0.65).
+internal_avg,0.4356887659539273,**Internal Avg** is moderate positively correlated with final score (r = 0.44).
+assignment_avg,0.3894172727029323,**Assignment Avg** is moderate positively correlated with final score (r = 0.39).
+midterm_score,0.35405952585898726,**Midterm Score** is moderate positively correlated with final score (r = 0.35).
+attendance_pct,0.34633749699339494,**Attendance Pct** is moderate positively correlated with final score (r = 0.35).

@@ -1,0 +1,26 @@
+digraph PredictionPipeline {
+	bgcolor=transparent nodesep=0.4 rankdir=LR ranksep=0.6
+	node [fillcolor="#E8F4FD" fontname=Arial fontsize=11 shape=box style="rounded,filled"]
+	edge [color="#555555" fontname=Arial fontsize=10]
+	A [label="Raw Dataset
+(CSV Input)"]
+	B [label="Data Cleaning
+Duplicates · Missing · Outliers"]
+	C [label="Feature Engineering
+Derived Academic Indicators"]
+	D [label="Train/Test Split
+80% Train · 20% Test"]
+	E [label="Model Training
+Linear Regression"]
+	F [label="Prediction
+Final Score Output"]
+	G [label="Evaluation
+MAE · RMSE · R²"]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F
+	E -> G [label=validate]
+	C -> F [label="inference path" style=dashed]
+}
